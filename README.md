@@ -12,8 +12,8 @@
 2. If downloading as .zip file, extract to your machine
 3. Ensure JDK is installed on your machine and `java` and `javac` are available on your path
 4. Navigate to the package directory at `./src`
-5. Run `javac io/bryanmullen/MyFirstProgram.java` to compile the class file
-6. Run `java io/bryanmullen/MyFirstProgram` to run the project from the command line
+5. Run `javac io/bryanmullen/Main.java` to compile the class file
+6. Run `java io/bryanmullen/Main` to run the project from the command line
 
 ## Instructions
 

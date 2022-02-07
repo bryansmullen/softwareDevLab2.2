@@ -1,10 +1,11 @@
-# Week 1 Lab 2
+# Week 1 Lab 2.2
 
 ## Table Of Contents
 
 1. [Running The Project](#running-the-project)
 2. [Instructions](#instructions)
 3. [Technologies Used](#technologies-used)
+4. [References](#references)
 
 ## Running the Project
 1. Download the source code
@@ -12,7 +13,7 @@
 3. Ensure JDK is installed on your machine and `java` and `javac` are available on your path
 4. Navigate to the package directory at `./src`
 5. Run `javac io/bryanmullen/MyFirstProgram.java` to compile the class file
-6. Run `javac io/bryanmullen/MyFirstProgram` to run the project from the command line
+6. Run `java io/bryanmullen/MyFirstProgram` to run the project from the command line
 
 ## Instructions
 
@@ -26,4 +27,7 @@ any 2
 - JAVA
 - Github
 
-[BACK TO TOP](#week-1-lab-2)
+## References
+[Currency formatting tutorial](https://stackabuse.com/how-to-format-number-as-currency-string-in-java/)
+
+[BACK TO TOP](#week-1-lab-2.2)
